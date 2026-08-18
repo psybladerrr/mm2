@@ -1,4 +1,3 @@
--- HTTPS://DISCORD.GG/N55TGTCZD --
 do
     local __skf_cc854a = 1
     local __skf_092757 = __skf_cc854a
